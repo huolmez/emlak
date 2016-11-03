@@ -1,0 +1,9 @@
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\Data.dll.config
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\Data.dll
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\Data.pdb
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\EntityFramework.dll
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\EntityFramework.SqlServer.dll
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\EntityFramework.xml
+C:\Users\husey\Desktop\MVC\Blog\Data\bin\EntityFramework.SqlServer.xml
+C:\Users\husey\Desktop\MVC\Blog\Data\obj\Debug\Data.dll
+C:\Users\husey\Desktop\MVC\Blog\Data\obj\Debug\Data.pdb
